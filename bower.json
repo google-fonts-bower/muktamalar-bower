@@ -1,0 +1,17 @@
+{
+    "name": "muktamalar-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Ek Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/muktamalar-bower.git"
+    },
+    "description": "Mukta Malar font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
